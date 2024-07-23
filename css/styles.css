@@ -138,6 +138,8 @@
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
+    font-family: var(--mono);
+    text-decoration: none;
   }
   
   .button:hover {
@@ -146,6 +148,7 @@
   }
   footer {
     text-align: center;
+    padding: 4rem 0;
   }
   footer ul {
     list-style-type:none;
