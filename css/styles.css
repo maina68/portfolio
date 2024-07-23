@@ -42,6 +42,12 @@
     color: var(--hotmag);
     text-decoration: none;
   }
+  /* background color divs */
+  .section-plum {
+    background-color: var(--plum);
+  }
+
+
   /* intro styles */
   #intro {
     padding: 4rem 1rem 10rem 1rem;
